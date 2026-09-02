@@ -6,3 +6,4 @@ Projekt maszyny RAM.
 
 **Kacper** - interfejs
 
+huj
