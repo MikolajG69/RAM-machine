@@ -8,5 +8,7 @@ Projekt maszyny RAM.
 
 
 
+Mikołaj - logika
 
+Kacper - interfejs
 
