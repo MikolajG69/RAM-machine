@@ -12,3 +12,4 @@ Mikołaj - logika
 
 Kacper - interfejs
 
+hello
