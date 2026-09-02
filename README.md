@@ -1,14 +1,7 @@
-\# RAM Machine
-
+# RAM Machine
 Projekt maszyny RAM.
 
-
-
-\## Podział pracy
-
-
-
-Mikołaj - logika
-
-Kacper - interfejs
+# Podział pracy
+**Mikołaj** - logika
+**Kacper** - interfejs
 
